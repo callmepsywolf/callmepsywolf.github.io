@@ -6,7 +6,6 @@ Sie hat pinke Haare, welche zu einem Zopf zusammengebunden sind und mittellang s
 Ihre Rüstung besteht aus Leder. Sie meuchelt ihre Gegner mit der Schattenkunst.
 
 ## Charaktereigenschaften
-
 - Liebt Dolche
 - Meuchelt gerne
 - Raidet gerne
