@@ -12,3 +12,5 @@ Ihre Rüstung besteht aus Leder. Sie meuchelt ihre Gegner mit der Schattenkunst.
 - Schokolade
 
 > This is my favourite quote.
+
+<img src="https://wiki.guildwars2.com/images/3/35/Thief_04_concept_art.png"/>
